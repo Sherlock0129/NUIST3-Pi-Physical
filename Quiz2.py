@@ -1,6 +1,6 @@
 # Python Programming Quiz with LED Feedback
-# Author: [Your Name]
-# Date: [YYYY-MM-DD]
+# Author: [Dongxu XIa]
+# Date: [2025/4/2]
 # Description: A 5-question Python quiz that provides visual feedback using
 #              GPIO-connected LEDs (green for correct, red for incorrect answers)
 #              Requires Raspberry Pi with GPIO setup
